@@ -1,0 +1,143 @@
+body {
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 8px;
+}
+
+.head {
+    margin: auto;
+    width: 960px;
+    height: 300px;
+    background-color: #dbecf4;
+}
+
+h5 {
+    margin-left: 520px;
+    margin-block-end: -10px;
+    padding-top: 40px;
+}
+
+.hello {
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 440px;
+    letter-spacing: 5px;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+
+.isi {
+    width: 510px;
+    margin-left: 70px;
+    font-size: 18px;
+    text-align: justify;
+    margin-block-start: 0px;
+}
+
+.kotak {
+    width: 210px;
+    height: 210px;
+    background-color: #5f84a2;
+    float: right;
+    margin-top: 65px;
+    margin-right: 70px;
+}
+.one {
+    width: 210px;
+    height: 210px;
+    float: right;
+    margin-top: 30px;
+    margin-right: -165px;
+}
+
+.profil {
+    margin: auto;
+    width: 960px;
+    height: 360px;
+    background-color: #b7d0e1;
+}
+
+h2 {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+
+.two {
+    width: 279px;
+    height: 230px;
+    border-radius: 100%;
+    margin-left: 100px;
+}
+
+.center {
+    font-size: 18px;
+    float: right;
+    margin-right: 100px;
+}
+
+.edu {
+    margin: auto;
+    width: 960px;
+    height: 300px;
+    background-color: #dbecf4;
+}
+
+.tk, .sd, .smp, .smk {
+    width: 150px;
+    height: 150px;
+    background-color: #cadeed;
+    border-radius: 20px;
+    float: left;
+    margin-left: 70px;
+    font-size: 19px;
+    text-align: center;
+    margin-top: 20px;
+    padding-block-start: 10px;
+}
+
+.kontak {
+    margin: auto;
+    width: 960px;
+    height: 300px;
+    background-color: #b7d0e1;
+}
+
+h3 {
+    padding-top: 50px;
+    margin-left: 70px;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+
+.quote {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: -130px;
+    margin-right: 70px;
+    float: right;
+}
+
+.cp {
+    font-size: 18px;
+    margin-left: 70px;
+    line-height: 30px;
+}
+
+.by {
+    margin: auto;
+    width: 960px;
+    height: 40px;
+    background-color: #5f84a2;
+    font-style: bold;
+}
+
+.footer {
+    padding-top: 7px;
+    margin-left: 70px;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
